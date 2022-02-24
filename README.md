@@ -12,7 +12,7 @@ In this **[website](https://bumboobee.github.io/Full-Spider-Verse/)**, you can s
 
 As i'am a lover of Spider-man movies... I could not this movie pass by like nothing.
 
-❌**SPOILER**❌ * *(Theres the tree spirder-mans on it)* if you din't whatched, sorry! 😅 ❌**SPOILER**❌
+❌**SPOILER**❌ * *(There's the tree spirder-mans on it)* if you din't whatched, sorry! 😅 ❌**SPOILER**❌
 
 ## Take a look
 
