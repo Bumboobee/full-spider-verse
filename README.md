@@ -1,6 +1,6 @@
 ## [Spider-verse 🕷](https://bumboobee.github.io/Full-Spider-Verse/)
 
-This **[project](https://bumboobee.github.io/Full-Spider-Verse/)** is a full website-developed for personal purposes, wich include practice of resposive design, using only CSS to achieve it. 
+This **[project](https://bumboobee.github.io/Full-Spider-Verse/)** is a full website-development, developed for personal purposes, wich include practice of resposive design, using only CSS to achieve it. 
 
 With the realese of the Spider-man: No Way Home, i wanted to make something special for this movie... And **[here](https://bumboobee.github.io/Full-Spider-Verse/)** it is!! 
 
