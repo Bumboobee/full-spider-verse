@@ -2,7 +2,7 @@
 
 This **[project](https://bumboobee.github.io/Full-Spider-Verse/)** is a full website-development, developed for personal purposes, wich include practice of resposive design, using only CSS to achieve it. 
 
-With the realese of the **[Spider-man: No Way Home](https://www.rottentomatoes.com/m/spider_man_no_way_home)**, i wanted to make something special for this movie... And **[here](https://bumboobee.github.io/Full-Spider-Verse/)** it is!! 
+With the realese of the **[Spider-man: No Way Home](https://www.rottentomatoes.com/m/spider_man_no_way_home)**, i wanted to make something special for this **[movie](https://www.rottentomatoes.com/m/spider_man_no_way_home)**... And **[here](https://bumboobee.github.io/Full-Spider-Verse/)** it is!! 
 
 I only used the basic of Web-development (CSS - JavaScript - Html).
 
