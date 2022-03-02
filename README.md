@@ -20,7 +20,7 @@ As i'am a lover of Spider-man movies... I could not this movie pass by like noth
  
 <div align="center">
 
- [![817fe4c2e59bf049fc4b8bdf145a41d2](https://c.tenor.com/mB814cspqZoAAAAC/spider-man-no-way-home-no-way-home.gif)]((https://bumboobee.github.io/Full-Spider-Verse/))
+ [![817fe4c2e59bf049fc4b8bdf145a41d2](https://c.tenor.com/mB814cspqZoAAAAC/spider-man-no-way-home-no-way-home.gif)](https://bumboobee.github.io/Full-Spider-Verse/)
 
  > With great power comes great responsibility.
  >> **Uncle Ben**
